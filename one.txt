@@ -1,1 +1,2 @@
-second file after the second.txt
+Second file after the second.txt
+Hye starting the git hub
